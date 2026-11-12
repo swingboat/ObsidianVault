@@ -1,0 +1,24 @@
+# macOS metadata
+.DS_Store
+._*
+.AppleDouble/
+
+# Local Obsidian workspace state and caches
+**/.obsidian/workspace*.json
+**/.obsidian/cache/
+**/.obsidian/.cache/
+**/.obsidian/plugins/
+**/.trash/
+
+# Local environment and credentials
+.env
+.env.*
+!.env.example
+!.env.sample
+*.pem
+*.key
+
+# Editor temporary files
+*.swp
+*.swo
+*~
